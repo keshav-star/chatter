@@ -16,14 +16,14 @@ const config = {
 
     measurementId: "G-R1P7ECH7PC",
 
-    CometChatAppId: "2226543428552a8a",
+    CometChatAppId: "227478879db72d63",
 
     CometChatRegion: "us",
 
-    CometChatAuthKey: "20e95a4e832398ac7f9b7e53ec23fc606821d82e",
+    CometChatAuthKey: "a7bddfe97613ccaa5d2a345301b951ce814e4ea3",
 
-    CometChatAPIKey: "39c364ed1b6f1c33eb35cd23150d68de7f791a56",
+    CometChatAPIKey: "dd43da10ac3f3c9d1c16692e63a2300be0cd9aa4",
 
-    CometChatWidgetId: "f5c05386-1b19-4a29-b5b9-3a188bc623a6"
+    CometChatWidgetId: "5a1658f3-a6f5-48b2-bf60-0c70fdbbf1c0"
 
 };    
